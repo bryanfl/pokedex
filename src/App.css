@@ -1,0 +1,17 @@
+.logo-content {
+  width: 100%;
+  margin: 30px 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo-pokedex {
+  width: 300px;
+}
+
+@media screen and (max-width: 450px) {
+  .logo-pokedex {
+    width: 95%;
+  }
+}

@@ -1,0 +1,7 @@
+.pokemon-content {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px 30px;
+    margin: 20px;
+    justify-content: center;
+}
